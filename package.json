@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AppsFlyerSDK/react-native-appsflyer.git"
+    "url": "https://github.com/CuriosityStream/appsflyer-react-native-plugin.git#tvos"
   },
   "author": "Appsflyer / Maxim Shoustin",
   "license": {
